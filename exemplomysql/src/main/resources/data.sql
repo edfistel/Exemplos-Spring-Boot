@@ -1,0 +1,2 @@
+--insert into cliente(id_cliente, nome, renda)
+--values(1, 'Eduardo Fischer', 2000.00);
